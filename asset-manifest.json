@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/zhinong-money-react-website/static/css/main.4a8923a7.chunk.css",
+    "main.js": "/zhinong-money-react-website/static/js/main.be984239.chunk.js",
+    "main.js.map": "/zhinong-money-react-website/static/js/main.be984239.chunk.js.map",
+    "runtime-main.js": "/zhinong-money-react-website/static/js/runtime-main.1aa18363.js",
+    "runtime-main.js.map": "/zhinong-money-react-website/static/js/runtime-main.1aa18363.js.map",
+    "static/js/2.43d7ac29.chunk.js": "/zhinong-money-react-website/static/js/2.43d7ac29.chunk.js",
+    "static/js/2.43d7ac29.chunk.js.map": "/zhinong-money-react-website/static/js/2.43d7ac29.chunk.js.map",
+    "index.html": "/zhinong-money-react-website/index.html",
+    "static/css/main.4a8923a7.chunk.css.map": "/zhinong-money-react-website/static/css/main.4a8923a7.chunk.css.map",
+    "static/js/2.43d7ac29.chunk.js.LICENSE.txt": "/zhinong-money-react-website/static/js/2.43d7ac29.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1aa18363.js",
+    "static/js/2.43d7ac29.chunk.js",
+    "static/css/main.4a8923a7.chunk.css",
+    "static/js/main.be984239.chunk.js"
+  ]
+}
